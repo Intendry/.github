@@ -4,4 +4,4 @@ An intent-driven software forge.
 
 Current status: Work in progress
 
-→ 🔗 intendry.dev
+→ 🔗 [https://intendry.dev](intendry.dev)
